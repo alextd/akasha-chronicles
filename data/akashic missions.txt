@@ -28,7 +28,7 @@ mission "Opening Mission Akashic"
 					goto akasha
 				`    "I beg you pardon... Can I help you?"`
 					goto akasha
-				`    "Grab your gun and shoot the Lizard!`
+				`    Grab your gun and shoot the Lizard!`
 					goto helpyourself
 
 			label akasha
