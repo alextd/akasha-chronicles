@@ -26,7 +26,7 @@ mission "Opening Mission Akashic"
 			choice
 				`    "Wow, where did you come from?!"`
 					goto akasha
-				`    "I beg you pardon... Can I help you?"`
+				`    "I beg your pardon... Can I help you?"`
 					goto akasha
 				`    "Grab your gun and shoot the Lizard!`
 					goto helpyourself
